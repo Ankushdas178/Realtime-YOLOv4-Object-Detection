@@ -30,6 +30,7 @@
 ## Steps
 
 - [Setup](#setup)
+- [Setting up Colab Notebook and Enabling GPU](#Setting-up-Colab-Notebook-and-Enabling-GPU)
 - [Cloning and Building Darknet](#cloning-and-building-darknet)
 - [Download Pre-trained Model](#download-pre-trained-model)
 - [Custom Functions](#custom-functions)
