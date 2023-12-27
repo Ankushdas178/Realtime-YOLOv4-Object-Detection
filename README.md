@@ -64,6 +64,6 @@
    - Experiment with different settings and parameters.
 
 
-Feel free to contribute and make improvements to enhance the functionality and performance of real-time object detection using YOLOv4 on Google Colab!
+Feel free to contribute to this project by suggesting improvements, reporting issues, or creating pull requests to enhance the functionality and performance of real-time object detection using YOLOv4 on Google Colab!
 
 
