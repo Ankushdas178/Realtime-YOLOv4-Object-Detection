@@ -7,10 +7,8 @@
  - This project demonstrates how to perform real-time object detection using the YOLOv4 model on a webcam stream within a Google Colab environment. It covers essential steps including Colab setup, Darknet configuration, model download, custom function creation, webcam integration, and object detection execution.
 
 
-Uploading 1703693261052962.mp4…
+https://github.com/Ankushdas178/Realtime-YOLOv4-Object-Detection/assets/58916385/7deca62b-2513-47d7-b17c-fbc1a33fed6e
 
-
-   
 
 ## Key Features:
 
